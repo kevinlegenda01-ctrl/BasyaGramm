@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0A0E1A</color>
+    <color name="bg_card">#111827</color>
+    <color name="bg_input">#162030</color>
+    <color name="accent">#3B9EFF</color>
+    <color name="accent2">#7C5CBF</color>
+    <color name="text_main">#FFFFFF</color>
+    <color name="text_sec">#8899BB</color>
+    <color name="text_hint">#445577</color>
+    <color name="bubble_own">#1D4E8F</color>
+    <color name="bubble_other">#1E2D45</color>
+    <color name="gold">#FFD700</color>
+    <color name="green">#22C55E</color>
+    <color name="red">#FF5555</color>
+    <color name="divider">#1F2D45</color>
+    <color name="transparent">#00000000</color>
+    <color name="nav_bg">#0D1525</color>
+    <!-- Light -->
+    <color name="light_bg">#F0F4FF</color>
+    <color name="light_card">#FFFFFF</color>
+    <color name="light_text">#1A1A2E</color>
+    <color name="light_sec">#6677AA</color>
+    <color name="light_input">#E8EEF8</color>
+    <color name="light_bubble_own">#D6E9FF</color>
+    <color name="light_bubble_other">#FFFFFF</color>
+</resources>

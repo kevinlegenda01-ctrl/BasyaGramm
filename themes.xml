@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BasyaGramm" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryVariant">@color/accent2</item>
+        <item name="colorOnPrimary">@color/text_main</item>
+        <item name="colorSurface">@color/bg_card</item>
+        <item name="colorOnSurface">@color/text_main</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/nav_bg</item>
+        <item name="android:navigationBarColor">@color/nav_bg</item>
+        <item name="android:textColorPrimary">@color/text_main</item>
+        <item name="android:textColorSecondary">@color/text_sec</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="Theme.BasyaGramm.Splash" parent="Theme.BasyaGramm">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.BasyaGramm.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryVariant">@color/accent2</item>
+        <item name="colorOnPrimary">@color/text_main</item>
+        <item name="colorSurface">@color/light_card</item>
+        <item name="colorOnSurface">@color/light_text</item>
+        <item name="android:windowBackground">@color/light_bg</item>
+        <item name="android:statusBarColor">@color/accent</item>
+        <item name="android:textColorPrimary">@color/light_text</item>
+        <item name="android:textColorSecondary">@color/light_sec</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+</resources>

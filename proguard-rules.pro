@@ -1,0 +1,6 @@
+-keep class com.basya.gramm.** { *; }
+-keep class io.socket.** { *; }
+-keep class okhttp3.** { *; }
+-dontwarn io.socket.**
+-dontwarn okhttp3.**
+-dontwarn org.webrtc.**
